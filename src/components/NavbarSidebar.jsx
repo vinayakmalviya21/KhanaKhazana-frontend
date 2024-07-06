@@ -13,7 +13,7 @@ function NavbarSidebar({ show }) {
       <a className="flex items-end justify-start cursor-pointer" href="/">
               <img
                 src={logo}
-                className="h-20 w-64 object-cover overflow-y-hidden"
+                className="h-24 w-72 object-cover overflow-y-hidden"
                 alt="loading error"
               />
             </a>
